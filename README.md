@@ -1,4 +1,4 @@
-# 🤖📊 Automated Data Analysis Report Generation for Robotic Systems
+# Automated Data Analysis Report Generation for Robotic Systems
 
 This project fully automates the process of **data analysis, visualization, and report generation** for monitoring the performance of a robotic system. It integrates data processing, statistical analysis, graph generation, and visual reasoning using a multimodal large language model (LLM), resulting in a professional `.docx` report.
 
@@ -20,14 +20,13 @@ This project fully automates the process of **data analysis, visualization, and 
   - All generated images are automatically deleted after insertion
 
 ---
-
- Data_Analyst/
-├── analyze.py
-├── Create_Doc.py
-├── Images/               # Imágenes generadas automáticamente
-├── reportes/             # Reportes .docx generados
-├── FrED_Factory.png      # Imagen de portada
-└── ControlSystemsData_Clean.csv
+Data_Analyst/
+├── analyze.py                 
+├── Create_Doc.py              
+├── Images/                    
+├── reportes/                 
+├── FrED_Factory.png           
+└── ControlSystemsData_Clean.csv  
 
 
 
