@@ -47,4 +47,4 @@ Data_Analyst/
 1. Place your clean data file (`.csv`) into the project directory.
 2. Run the main script:  
    ```bash
-   python analyze.py
+   python pipeline.py
